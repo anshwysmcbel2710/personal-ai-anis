@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "functions": {
+    "api/ocr-summarize.ts": {
+      "runtime": "nodejs18.x",
+      "memory": 2048,
+      "maxDuration": 60
+    }
+  }
+}

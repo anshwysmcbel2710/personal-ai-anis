@@ -1,0 +1,15 @@
+{
+  "name": "ocr-summarize",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/node": "^5.5.9",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^1.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.25",
+    "@types/node-fetch": "^2.6.13"
+  }
+}
